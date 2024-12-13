@@ -1,5 +1,5 @@
 config.txt
-data/tendik.html
+data/dosen.html
 *.exe
 ### Laravel ###
 /vendor/
